@@ -1,9 +1,9 @@
 {
     "env": "devops",
-    "account": "XXXXXXXXXXXZ",
+    "account": "654654357237",
     "region": "us-east-1",
-    "codestarArn": "arn:aws:codestar-connections:us-east-2:XXXXXXXXXXXX:connection/5ab48603-7bae-4a43-a256-XXXXXXXXXXXX",
-    "repo": "forked repo here",
-    "owner": "Your github alias",
-    "email": "your email address"
+    "codestarArn": "arn:aws:codestar-connections:us-east-1:654654357237:connection/184eda54-81d0-4099-a844-5ff2daeb6806",
+    "repo": "amazon-connect-cicd-workshop",
+    "owner": "SSingh44343",
+    "email": "sarbjot.singh@scalecapacity.com"
 }
